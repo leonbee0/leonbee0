@@ -1,18 +1,8 @@
 ### Hey 👋, I'm leonbee (Furkan)
 
 Has been working with Roblox LuaU and JavaScript/TypeScript for a long time and it's fun to help and present things to people who enjoy them. I'm trying to improve myself in the future.
+
+📫 You can reach me at `leonbee#9160`
  
-
-<br/> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=leonbee1&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonbee1&hide_border=true&layout=compact" align="center" style="width: 50%" />
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=leonbee1&&style=flat-square)  
-
-<br/> 
+![Furkans's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=leonbee1&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=leonbee1&layout=compact&exclude_repo=tree-sitter-luau,github-readme-stats&hide=css,javascript)
