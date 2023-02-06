@@ -4,4 +4,4 @@ Has been working with Roblox LuaU and JavaScript/TypeScript for a long time and 
 
 - 🛰️ Most projects i deal with are on [Roblox](https://www.roblox.com/users/1862014843/profile)
  
-![Furkans's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Furkans's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonbee1&show_icons=true&theme=gruvbox)
