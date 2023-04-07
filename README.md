@@ -1,4 +1,4 @@
-### Hey 👋, I'm leonbee (Furkan)
+### Hey 👋, I'm leonbee
 
 Has been working with [Roblox Luau](https://luau-lang.org) & [JavaScript](https://www.javascript.com) & [TypeScript](https://www.typescriptlang.org) for a long time and it's fun to help and present things to people who enjoy them. I improve myself more and more as time goes on.
 
