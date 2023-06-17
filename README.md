@@ -1,6 +1,6 @@
 ### Hey 👋, I'm leonbee
 
-It works with [Roblox Luau](https://luau-lang.org) & [JavaScript](https://www.javascript.com) & [TypeScript](https://www.typescriptlang.org). It's been fun to offer and help people for a long time. I am improving myself more and more as time goes on.
+It's really fun to develop and help Roblox games. I develop myself more and gain new knowledge. I continue my work on **[Roblox Luau](https://luau-lang.org)** and **[JavaScript](https://www.javascript.com)/[TypeScript](https://www.typescriptlang.org)**.
 
 - 🛰️ Most projects i deal with are on [Roblox](https://www.roblox.com/users/1862014843/profile)
  
